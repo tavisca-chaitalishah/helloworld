@@ -1,0 +1,13 @@
+c:\users\cshah\documents\visual studio 2015\Projects\ChattingApplication\ChattingApplication\bin\Debug\ChattingApplication.exe.config
+D:\Chat Server\ChattingApplication\ChattingApplication\bin\Debug\ChattingApplication.exe.config
+D:\Chat Server\ChattingApplication\ChattingApplication\bin\Debug\ChattingApplication.exe
+D:\Chat Server\ChattingApplication\ChattingApplication\bin\Debug\ChattingApplication.pdb
+D:\Chat Server\ChattingApplication\ChattingApplication\obj\Debug\ChattingApplication.csprojResolveAssemblyReference.cache
+D:\Chat Server\ChattingApplication\ChattingApplication\obj\Debug\ChattingApplication.exe
+D:\Chat Server\ChattingApplication\ChattingApplication\obj\Debug\ChattingApplication.pdb
+D:\Chat Server\chat server local\ChattingApplication\ChattingApplication\bin\Debug\ChattingApplication.exe.config
+D:\Chat Server\chat server local\ChattingApplication\ChattingApplication\obj\Debug\ChattingApplication.exe
+D:\Chat Server\chat server local\ChattingApplication\ChattingApplication\obj\Debug\ChattingApplication.pdb
+D:\Chat Server\chat server local\ChattingApplication\ChattingApplication\bin\Debug\ChattingApplication.exe
+D:\Chat Server\chat server local\ChattingApplication\ChattingApplication\bin\Debug\ChattingApplication.pdb
+D:\Chat Server\chat server local\ChattingApplication\ChattingApplication\obj\Debug\ChattingApplication.csprojResolveAssemblyReference.cache

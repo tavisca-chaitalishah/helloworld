@@ -1,0 +1,8 @@
+D:\Chat Server\ClientSide\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Chat Server\ClientSide\ClientSide\bin\Debug\ClientSide.exe
+D:\Chat Server\ClientSide\ClientSide\bin\Debug\ClientSide.pdb
+D:\Chat Server\ClientSide\ClientSide\obj\Debug\ClientSide.exe
+D:\Chat Server\ClientSide\ClientSide\obj\Debug\ClientSide.pdb
+D:\Chat Server\chat server local\ClientSide\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Chat Server\chat server local\ClientSide\ClientSide\obj\Debug\ClientSide.exe
+D:\Chat Server\chat server local\ClientSide\ClientSide\obj\Debug\ClientSide.pdb
